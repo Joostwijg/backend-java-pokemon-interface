@@ -16,7 +16,6 @@ Naast hun type, hebben Pokémon natuurlijk bepaalde eigenschappen met elkaar gem
 
 ![Pokemon!](./assets/pokemon.JPG)
 
-
 ### Afwijking van werkwijze
 
 Omdat jullie inmiddels wat verder gevorderd zijn met het programmeren met 
